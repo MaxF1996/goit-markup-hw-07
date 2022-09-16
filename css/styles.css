@@ -1013,9 +1013,9 @@ nav.flex-container {
 .checkbox {
   position: relative;
 
+  flex: 0 0 16px;
   margin-bottom: 3px;
 
-  display: inline-block;
   width: 16px;
   height: 15px;
 
