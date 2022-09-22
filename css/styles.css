@@ -603,7 +603,8 @@ body {
   overflow: hidden;
 }
 
-.portfolio-card:hover .portfolio-card__info {
+.portfolio-card:hover .portfolio-card__info,
+.portfolio-card:focus .portfolio-card__info {
   transform: translateY(0%);
 }
 
